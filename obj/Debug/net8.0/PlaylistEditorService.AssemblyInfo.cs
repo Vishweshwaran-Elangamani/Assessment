@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlaylistEditorService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b10d33d943f55379fa2a035049c867aee0a568e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5ed850a6e41fd694dab69cbd1c9cc7fcf6c86e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlaylistEditorService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlaylistEditorService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

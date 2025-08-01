@@ -4,6 +4,29 @@ using PlaylistService.Model;
 using PlaylistServices.Data;
 using PlaylistService.Model;
 using System;
+using Microsoft.AspNetCore.Mvc;
+using PlaylistService.Model;
+
+using PlaylistServices.Data;
+using PlaylistService.Model;
+using System;
+
+
+using Microsoft.AspNetCore.Mvc;
+using PlaylistService.Model;
+
+using PlaylistServices.Data;
+using PlaylistService.Model;
+using System;
+
+
+
+//using Microsoft.AspNetCore.Mvc;
+//using PlaylistService.Model;
+
+//using PlaylistServices.Data;
+//using PlaylistService.Model;
+//using System;
 namespace PlaylistService.Controllers
 {
     [Route("api/[controller]")]

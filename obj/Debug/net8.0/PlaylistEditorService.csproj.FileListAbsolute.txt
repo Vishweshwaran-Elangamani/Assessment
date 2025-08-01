@@ -135,4 +135,3 @@ D:\WEB_API_FOLDER\API\PlaylistEditorService\PlaylistEditorService\obj\Debug\net8
 D:\WEB_API_FOLDER\API\PlaylistEditorService\PlaylistEditorService\obj\Debug\net8.0\PlaylistEditorService.pdb
 D:\WEB_API_FOLDER\API\PlaylistEditorService\PlaylistEditorService\obj\Debug\net8.0\PlaylistEditorService.genruntimeconfig.cache
 D:\WEB_API_FOLDER\API\PlaylistEditorService\PlaylistEditorService\obj\Debug\net8.0\ref\PlaylistEditorService.dll
-D:\WEB_API_FOLDER\API\PlaylistEditorService\PlaylistEditorService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
