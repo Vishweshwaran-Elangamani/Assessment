@@ -1,0 +1,14 @@
+É
+xD:\WEB_API_FOLDER\API\PlaylistEditorService\PlaylistEditorService\obj\Debug\net8.0\PlaylistEditorService.AssemblyInfo.csutf-8ó
+ãD:\WEB_API_FOLDER\API\PlaylistEditorService\PlaylistEditorService\obj\Debug\net8.0\PlaylistEditorService.MvcApplicationPartsAssemblyInfo.csutf-8ç
+ÅD:\WEB_API_FOLDER\API\PlaylistEditorService\PlaylistEditorService\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8Ö
+zD:\WEB_API_FOLDER\API\PlaylistEditorService\PlaylistEditorService\obj\Debug\net8.0\PlaylistEditorService.GlobalUsings.g.csutf-8]
+TD:\WEB_API_FOLDER\API\PlaylistEditorService\PlaylistEditorService\WeatherForecast.csutf-8U
+LD:\WEB_API_FOLDER\API\PlaylistEditorService\PlaylistEditorService\Program.csutf-8`
+WD:\WEB_API_FOLDER\API\PlaylistEditorService\PlaylistEditorService\Model\PlaylistItem.csutf-8t
+iD:\WEB_API_FOLDER\API\PlaylistEditorService\PlaylistEditorService\Migrations\AppDbContextModelSnapshot.csutf-8Ä
+uD:\WEB_API_FOLDER\API\PlaylistEditorService\PlaylistEditorService\Migrations\20250710043755_first_migrate.Designer.csutf-8u
+lD:\WEB_API_FOLDER\API\PlaylistEditorService\PlaylistEditorService\Migrations\20250710043755_first_migrate.csutf-8_
+VD:\WEB_API_FOLDER\API\PlaylistEditorService\PlaylistEditorService\Data\AppDbContext.csutf-8s
+jD:\WEB_API_FOLDER\API\PlaylistEditorService\PlaylistEditorService\Controllers\WeatherForecastController.csutf-8l
+cD:\WEB_API_FOLDER\API\PlaylistEditorService\PlaylistEditorService\Controllers\PlaylistController.csutf-8
