@@ -33,342 +33,6 @@
           }
         },
         {
-          "ruleId": "CS0105",
-          "level": "warning",
-          "message": "The using directive for 'Microsoft.AspNetCore.Mvc' appeared previously in this namespace",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/WEB_API_FOLDER/API/PlaylistEditorService/PlaylistEditorService/Controllers/PlaylistController.cs",
-                "region": {
-                  "startLine": 7,
-                  "startColumn": 7,
-                  "endLine": 7,
-                  "endColumn": 31
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0105",
-          "level": "warning",
-          "message": "The using directive for 'PlaylistService.Model' appeared previously in this namespace",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/WEB_API_FOLDER/API/PlaylistEditorService/PlaylistEditorService/Controllers/PlaylistController.cs",
-                "region": {
-                  "startLine": 8,
-                  "startColumn": 7,
-                  "endLine": 8,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0105",
-          "level": "warning",
-          "message": "The using directive for 'PlaylistServices.Data' appeared previously in this namespace",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/WEB_API_FOLDER/API/PlaylistEditorService/PlaylistEditorService/Controllers/PlaylistController.cs",
-                "region": {
-                  "startLine": 10,
-                  "startColumn": 7,
-                  "endLine": 10,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0105",
-          "level": "warning",
-          "message": "The using directive for 'PlaylistService.Model' appeared previously in this namespace",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/WEB_API_FOLDER/API/PlaylistEditorService/PlaylistEditorService/Controllers/PlaylistController.cs",
-                "region": {
-                  "startLine": 11,
-                  "startColumn": 7,
-                  "endLine": 11,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0105",
-          "level": "warning",
-          "message": "The using directive for 'Microsoft.AspNetCore.Mvc' appeared previously in this namespace",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/WEB_API_FOLDER/API/PlaylistEditorService/PlaylistEditorService/Controllers/PlaylistController.cs",
-                "region": {
-                  "startLine": 15,
-                  "startColumn": 7,
-                  "endLine": 15,
-                  "endColumn": 31
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0105",
-          "level": "warning",
-          "message": "The using directive for 'PlaylistService.Model' appeared previously in this namespace",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/WEB_API_FOLDER/API/PlaylistEditorService/PlaylistEditorService/Controllers/PlaylistController.cs",
-                "region": {
-                  "startLine": 16,
-                  "startColumn": 7,
-                  "endLine": 16,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0105",
-          "level": "warning",
-          "message": "The using directive for 'PlaylistServices.Data' appeared previously in this namespace",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/WEB_API_FOLDER/API/PlaylistEditorService/PlaylistEditorService/Controllers/PlaylistController.cs",
-                "region": {
-                  "startLine": 18,
-                  "startColumn": 7,
-                  "endLine": 18,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0105",
-          "level": "warning",
-          "message": "The using directive for 'PlaylistService.Model' appeared previously in this namespace",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/WEB_API_FOLDER/API/PlaylistEditorService/PlaylistEditorService/Controllers/PlaylistController.cs",
-                "region": {
-                  "startLine": 19,
-                  "startColumn": 7,
-                  "endLine": 19,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0105",
-          "level": "warning",
-          "message": "The using directive for 'Microsoft.EntityFrameworkCore' appeared previously in this namespace",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/WEB_API_FOLDER/API/PlaylistEditorService/PlaylistEditorService/Data/AppDbContext.cs",
-                "region": {
-                  "startLine": 4,
-                  "startColumn": 7,
-                  "endLine": 4,
-                  "endColumn": 36
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0105",
-          "level": "warning",
-          "message": "The using directive for 'PlaylistService.Model' appeared previously in this namespace",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/WEB_API_FOLDER/API/PlaylistEditorService/PlaylistEditorService/Data/AppDbContext.cs",
-                "region": {
-                  "startLine": 5,
-                  "startColumn": 7,
-                  "endLine": 5,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0105",
-          "level": "warning",
-          "message": "The using directive for 'Microsoft.EntityFrameworkCore' appeared previously in this namespace",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/WEB_API_FOLDER/API/PlaylistEditorService/PlaylistEditorService/Data/AppDbContext.cs",
-                "region": {
-                  "startLine": 12,
-                  "startColumn": 7,
-                  "endLine": 12,
-                  "endColumn": 36
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0105",
-          "level": "warning",
-          "message": "The using directive for 'PlaylistService.Model' appeared previously in this namespace",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/WEB_API_FOLDER/API/PlaylistEditorService/PlaylistEditorService/Data/AppDbContext.cs",
-                "region": {
-                  "startLine": 13,
-                  "startColumn": 7,
-                  "endLine": 13,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0105",
-          "level": "warning",
-          "message": "The using directive for 'Microsoft.EntityFrameworkCore' appeared previously in this namespace",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/WEB_API_FOLDER/API/PlaylistEditorService/PlaylistEditorService/Program.cs",
-                "region": {
-                  "startLine": 7,
-                  "startColumn": 7,
-                  "endLine": 7,
-                  "endColumn": 36
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0105",
-          "level": "warning",
-          "message": "The using directive for 'PlaylistServices.Data' appeared previously in this namespace",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/WEB_API_FOLDER/API/PlaylistEditorService/PlaylistEditorService/Program.cs",
-                "region": {
-                  "startLine": 8,
-                  "startColumn": 7,
-                  "endLine": 8,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0105",
-          "level": "warning",
-          "message": "The using directive for 'Microsoft.EntityFrameworkCore' appeared previously in this namespace",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/WEB_API_FOLDER/API/PlaylistEditorService/PlaylistEditorService/Program.cs",
-                "region": {
-                  "startLine": 10,
-                  "startColumn": 7,
-                  "endLine": 10,
-                  "endColumn": 36
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0105",
-          "level": "warning",
-          "message": "The using directive for 'PlaylistServices.Data' appeared previously in this namespace",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/WEB_API_FOLDER/API/PlaylistEditorService/PlaylistEditorService/Program.cs",
-                "region": {
-                  "startLine": 11,
-                  "startColumn": 7,
-                  "endLine": 11,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
           "ruleId": "CS8618",
           "level": "warning",
           "message": "Non-nullable property 'PlaylistItems' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
@@ -380,9 +44,9 @@
               "resultFile": {
                 "uri": "file:///D:/WEB_API_FOLDER/API/PlaylistEditorService/PlaylistEditorService/Data/AppDbContext.cs",
                 "region": {
-                  "startLine": 21,
+                  "startLine": 9,
                   "startColumn": 16,
-                  "endLine": 21,
+                  "endLine": 9,
                   "endColumn": 28
                 }
               }
@@ -393,31 +57,10 @@
               "physicalLocation": {
                 "uri": "file:///D:/WEB_API_FOLDER/API/PlaylistEditorService/PlaylistEditorService/Data/AppDbContext.cs",
                 "region": {
-                  "startLine": 23,
+                  "startLine": 11,
                   "startColumn": 36,
-                  "endLine": 23,
+                  "endLine": 11,
                   "endColumn": 49
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S125",
-          "level": "warning",
-          "message": "Remove this commented out code.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/WEB_API_FOLDER/API/PlaylistEditorService/PlaylistEditorService/Controllers/PlaylistController.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 1,
-                  "endLine": 24,
-                  "endColumn": 34
                 }
               }
             }
@@ -439,69 +82,6 @@
                   "startColumn": 27,
                   "endLine": 9,
                   "endColumn": 91
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S125",
-          "level": "warning",
-          "message": "Remove this commented out code.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/WEB_API_FOLDER/API/PlaylistEditorService/PlaylistEditorService/Data/AppDbContext.cs",
-                "region": {
-                  "startLine": 8,
-                  "startColumn": 1,
-                  "endLine": 8,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S125",
-          "level": "warning",
-          "message": "Remove this commented out code.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/WEB_API_FOLDER/API/PlaylistEditorService/PlaylistEditorService/Program.cs",
-                "region": {
-                  "startLine": 4,
-                  "startColumn": 1,
-                  "endLine": 4,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S4487",
-          "level": "warning",
-          "message": "Remove this unread private field '_logger' or refactor the code to use its value.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/WEB_API_FOLDER/API/PlaylistEditorService/PlaylistEditorService/Controllers/WeatherForecastController.cs",
-                "region": {
-                  "startLine": 14,
-                  "startColumn": 61,
-                  "endLine": 14,
-                  "endColumn": 68
                 }
               }
             }
@@ -641,9 +221,9 @@
               "resultFile": {
                 "uri": "file:///D:/WEB_API_FOLDER/API/PlaylistEditorService/PlaylistEditorService/Program.cs",
                 "region": {
-                  "startLine": 27,
+                  "startLine": 17,
                   "startColumn": 9,
-                  "endLine": 27,
+                  "endLine": 17,
                   "endColumn": 32
                 }
               }
@@ -704,9 +284,9 @@
               "resultFile": {
                 "uri": "file:///D:/WEB_API_FOLDER/API/PlaylistEditorService/PlaylistEditorService/Controllers/PlaylistController.cs",
                 "region": {
-                  "startLine": 58,
+                  "startLine": 27,
                   "startColumn": 30,
-                  "endLine": 58,
+                  "endLine": 27,
                   "endColumn": 36
                 }
               }
@@ -717,10 +297,10 @@
               "physicalLocation": {
                 "uri": "file:///D:/WEB_API_FOLDER/API/PlaylistEditorService/PlaylistEditorService/Controllers/PlaylistController.cs",
                 "region": {
-                  "startLine": 64,
+                  "startLine": 31,
                   "startColumn": 20,
-                  "endLine": 64,
-                  "endColumn": 28
+                  "endLine": 31,
+                  "endColumn": 76
                 }
               }
             }
@@ -741,9 +321,9 @@
               "resultFile": {
                 "uri": "file:///D:/WEB_API_FOLDER/API/PlaylistEditorService/PlaylistEditorService/Controllers/PlaylistController.cs",
                 "region": {
-                  "startLine": 50,
+                  "startLine": 35,
                   "startColumn": 30,
-                  "endLine": 50,
+                  "endLine": 35,
                   "endColumn": 36
                 }
               }
@@ -754,10 +334,10 @@
               "physicalLocation": {
                 "uri": "file:///D:/WEB_API_FOLDER/API/PlaylistEditorService/PlaylistEditorService/Controllers/PlaylistController.cs",
                 "region": {
-                  "startLine": 54,
+                  "startLine": 41,
                   "startColumn": 20,
-                  "endLine": 54,
-                  "endColumn": 76
+                  "endLine": 41,
+                  "endColumn": 28
                 }
               }
             }
@@ -778,9 +358,9 @@
               "resultFile": {
                 "uri": "file:///D:/WEB_API_FOLDER/API/PlaylistEditorService/PlaylistEditorService/Program.cs",
                 "region": {
-                  "startLine": 42,
+                  "startLine": 32,
                   "startColumn": 1,
-                  "endLine": 42,
+                  "endLine": 32,
                   "endColumn": 10
                 }
               }
@@ -836,23 +416,6 @@
             ]
           }
         },
-        "S125": {
-          "id": "S125",
-          "shortDescription": "Sections of code should not be commented out",
-          "fullDescription": "Commented-out code distracts the focus from the actual executed code. It creates a noise that increases maintenance code. And because it is never executed, it quickly becomes out of date and invalid.",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-125",
-          "properties": {
-            "category": "Major Code Smell",
-            "isEnabledByDefault": true,
-            "tags": [
-              "C#",
-              "MainSourceScope",
-              "TestSourceScope",
-              "SonarWay"
-            ]
-          }
-        },
         "S2068": {
           "id": "S2068",
           "shortDescription": "Hard-coded credentials are security-sensitive",
@@ -865,23 +428,6 @@
             "tags": [
               "C#",
               "MainSourceScope",
-              "SonarWay"
-            ]
-          }
-        },
-        "S4487": {
-          "id": "S4487",
-          "shortDescription": "Unread \"private\" fields should be removed",
-          "fullDescription": "Private fields which are written but never read are a case of \"dead store\". Changing the value of such a field is useless and most probably indicates an error in the code.",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-4487",
-          "properties": {
-            "category": "Critical Code Smell",
-            "isEnabledByDefault": true,
-            "tags": [
-              "C#",
-              "MainSourceScope",
-              "TestSourceScope",
               "SonarWay"
             ]
           }

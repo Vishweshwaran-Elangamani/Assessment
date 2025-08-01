@@ -1,6 +1,6 @@
-projectKey=project
+projectKey=conarproject
 serverUrl=http://localhost:9000
 serverVersion=25.1.0.102122
-dashboardUrl=http://localhost:9000/dashboard?id=project
-ceTaskId=6819a3cb-e45b-4d2b-a771-563a3f84d027
-ceTaskUrl=http://localhost:9000/api/ce/task?id=6819a3cb-e45b-4d2b-a771-563a3f84d027
+dashboardUrl=http://localhost:9000/dashboard?id=conarproject
+ceTaskId=86e69f5b-9e8e-4346-afe2-12b2c36793db
+ceTaskUrl=http://localhost:9000/api/ce/task?id=86e69f5b-9e8e-4346-afe2-12b2c36793db

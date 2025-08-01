@@ -1,18 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using PlaylistService.Model;
 using System.Collections.Generic;
-using Microsoft.EntityFrameworkCore;
-using PlaylistService.Model;
-using System.Collections.Generic;
-
-//using Microsoft.EntityFrameworkCore;
-//using PlaylistService.Model;
-//using System.Collections.Generic;
-
-using Microsoft.EntityFrameworkCore;
-using PlaylistService.Model;
-using System.Collections.Generic;
-
 
 namespace PlaylistServices.Data
 {
