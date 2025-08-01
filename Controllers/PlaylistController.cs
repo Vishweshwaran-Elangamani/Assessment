@@ -1,9 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using PlaylistService.Model;
-
 using PlaylistServices.Data;
-using PlaylistService.Model;
-using System;
 namespace PlaylistService.Controllers
 {
     [Route("api/[controller]")]
@@ -14,9 +11,11 @@ namespace PlaylistService.Controllers
         public PlaylistController(AppDbContext context) => _context = context;
 
         [HttpGet]
+        [ProducesResponseType(typeof(int), StatusCodes.Status200OK)]
         public ActionResult<IEnumerable<PlaylistItem>> GetAll() => Ok(_context.PlaylistItems.ToList());
 
         [HttpGet("{id}")]
+        [ProducesResponseType(typeof(int), StatusCodes.Status200OK)]
         public ActionResult<PlaylistItem> Get(int id)
         {
             var item = _context.PlaylistItems.Find(id);
@@ -24,6 +23,7 @@ namespace PlaylistService.Controllers
         }
 
         [HttpPost]
+        [ProducesResponseType(typeof(int), StatusCodes.Status200OK)]
         public IActionResult Create(PlaylistItem item)
         {
             _context.PlaylistItems.Add(item);
@@ -32,6 +32,7 @@ namespace PlaylistService.Controllers
         }
 
         [HttpPut("{id}")]
+        [ProducesResponseType(typeof(int), StatusCodes.Status200OK)]
         public IActionResult Update(int id, PlaylistItem item)
         {
             if (!_context.PlaylistItems.Any(e => e.Id == id)) return NotFound();
@@ -42,6 +43,7 @@ namespace PlaylistService.Controllers
         }
 
         [HttpDelete("{id}")]
+        [ProducesResponseType(typeof(int), StatusCodes.Status200OK)]
         public IActionResult Delete(int id)
         {
             var item = _context.PlaylistItems.Find(id);

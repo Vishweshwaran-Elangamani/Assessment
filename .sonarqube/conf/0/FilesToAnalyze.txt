@@ -12,5 +12,4 @@ D:\WEB_API_FOLDER\API\PlaylistEditorService\PlaylistEditorService\obj\Debug\net8
 D:\WEB_API_FOLDER\API\PlaylistEditorService\PlaylistEditorService\appsettings.Development.json
 D:\WEB_API_FOLDER\API\PlaylistEditorService\PlaylistEditorService\appsettings.json
 D:\WEB_API_FOLDER\API\PlaylistEditorService\PlaylistEditorService\PlaylistEditorService.http
-D:\WEB_API_FOLDER\API\PlaylistEditorService\PlaylistEditorService\README.md
 D:\WEB_API_FOLDER\API\PlaylistEditorService\PlaylistEditorService\Properties\launchSettings.json

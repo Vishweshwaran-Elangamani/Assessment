@@ -1,6 +1,6 @@
-projectKey=conarproject
+projectKey=prg
 serverUrl=http://localhost:9000
 serverVersion=25.1.0.102122
-dashboardUrl=http://localhost:9000/dashboard?id=conarproject
-ceTaskId=86e69f5b-9e8e-4346-afe2-12b2c36793db
-ceTaskUrl=http://localhost:9000/api/ce/task?id=86e69f5b-9e8e-4346-afe2-12b2c36793db
+dashboardUrl=http://localhost:9000/dashboard?id=prg
+ceTaskId=d25e4b34-3822-41b3-9293-7eb6cb2a43a5
+ceTaskUrl=http://localhost:9000/api/ce/task?id=d25e4b34-3822-41b3-9293-7eb6cb2a43a5
